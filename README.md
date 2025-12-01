@@ -7,7 +7,7 @@ Below is a visual overview of the main pages and features of our full-stack blog
 
 | Home | About | Projects |
 |------|--------|----------|
-| ![Home](./6620/Home.png) | ![About](./6620/About.png) | ![Projects](./screenshots/projects.png) |
+| ![Home](./6620/Home.png) | ![About](./6620/About.png) | ![Projects](./screenshots/Projects.png) |
 
 ### Authentication & Mode
 
